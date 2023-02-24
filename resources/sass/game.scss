@@ -1,0 +1,16 @@
+table.Table {
+    border: 3px solid #000000;
+    background-color: #FFFFFF;
+    table-layout: fixed;
+    text-align: center;
+    margin-left: 20%;
+  }
+  table.Table td, table.Table th {
+    border: 1px solid #AAAAAA;
+  }
+  table.Table tbody td {
+    font-size: 14px;
+    font-weight: bold;
+    width: 60px;
+    height: 60px;
+  }
